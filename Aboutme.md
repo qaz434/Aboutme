@@ -1,1 +1,1 @@
-I am a junior cs student.
+I am a cs student.
